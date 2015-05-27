@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
     @IBAction func gitButtonPressed(sender: AnyObject) {
         println("Button pressed")
+        println("Adding another change for git test")
     }
 
 }
